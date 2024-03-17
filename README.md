@@ -1,4 +1,4 @@
-### Olá, me chamo Cauã, tenho 19 anos e sou estudante do curso de sistemas de informação na UNIFEBE. Já trabalhei com design, e estou estudando atualmente React e Kotlin.
+### Olá, me chamo Cauã, tenho 19 anos e sou estudante do curso de sistemas de informação na UNIFEBE. Já trabalhei com design e protipação no figma. Estou estudando atualmente React e Kotlin, mas sempre estou aberto para aprender mais.
 
 <!--
 **CauaDePaula/CauaDePaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
